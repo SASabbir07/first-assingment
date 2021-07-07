@@ -1,0 +1,81 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.orangered{
+    color: orangered;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 100px;
+}
+.width{
+    width: 50%;
+    padding-left: 10%;
+}
+.width img{
+    width: 70%;
+}
+.oder-food{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 7px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+}
+.banner{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.center{
+    text-align: center;
+    margin-left: 40%;
+}
+.vegetable-meat{
+    display: flex; 
+}
+.shadow{
+    width: 25%;
+    margin: 0px 40px;
+    padding-left: 30%;
+    box-shadow: 5px 10px 15px grey;
+}
+.shadow img{
+    width: 30%;
+    border-radius: 30px;
+}
+.follower-sec{
+    width: 80%;
+    margin: auto;
+    border: 1px solid grey;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    box-shadow: 10px 15px 20px gray;
+    border-radius: 40px;
+    display: flex;
+}
+.follow{
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.follow h1{
+    font-size: 40px;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.986);
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+}
